@@ -21,8 +21,8 @@ const GlobalWrapper = (props) => {
     <Fragment>
       <Helmet>
         <html lang="en" />
-        <title>John Doe</title>
-        <meta name="description" content="John Doe's projects" />
+        <title>Anurag Kamrani</title>
+        <meta name="description" content="Anurag Kamrani's projects" />
         <meta
           name="keywords"
           content="keyword1, keyword2, keyword3"
@@ -31,10 +31,10 @@ const GlobalWrapper = (props) => {
           property="og:image"
           content="https://via.placeholder.com/250"
         />
-        <meta property="og:description" content="John Doe's projects" />
+        <meta property="og:description" content="Anurag Kamrani's projects" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://johndoe.com" />
-        <meta property="og:title" content="John Doe" />
+        <meta property="og:url" content="https://AnuragKamrani.com" />
+        <meta property="og:title" content="Anurag Kamrani" />
 
         <link
           rel="apple-touch-icon"
